@@ -12,8 +12,8 @@ Demo Shopping App is an weather app demo written in Swift.
 - [x] Image Cache
 - [x] Core Data
 - [x] Badge View
-- [x] Auto layout
-- 
+- [x] List view
+
 
 This is the simple demo for make a shopping application for demo purpose.
 
